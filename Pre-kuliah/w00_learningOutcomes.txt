@@ -10,7 +10,7 @@ An operating system provides an environmetn within which other programs can do u
 The fundamental goal of an operating system is to make solving user problems easier, which means that it seeks to enhance convenience, efficiency, and ability to evolve.
 
 notes:
-1. An operating system is vthe one program running at all times on the computer - usually called the kernel.
+1. An operating system is the one program running at all times on the computer - usually called the kernel.
 2. Along with the kernel, there are two other types of programs: system programs, which are associated with the operating system but are not a part of the kernel and application programs, which include all programs not associated with the operating system.
 3. Mobile operating systems often include not only a core kernel but also middleware (a set of software frameworks that provide additional service to application developers).
 ---------------------------------------------------------------------------------------------
