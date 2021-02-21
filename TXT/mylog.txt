@@ -8,3 +8,6 @@ ZCZC W00 005 L01 Scele Registration and Google Form Submission
 ZCZC W00 050 L05 GSGS about Fuchsia OS
 ZCZC W00 015 L05 GSGS about Software and specific OS
 ZCZC W00 015 L01 General Forum Reply "Fuchsia"
+ZCZC W00 150 L06 Reading "Operating System Concepts"
+ZCZC W00 050 L05 GSGS about OS in general to answer W00 Learning Outcome
+ZCZC W00 060 L00 Writing Down Notes for W00 Learning Outcome
