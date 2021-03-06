@@ -11,4 +11,7 @@ ZCZC W00 015 L01 General Forum Reply "Fuchsia"
 ZCZC W00 150 L06 Reading "Operating System Concepts"
 ZCZC W00 050 L05 GSGS about OS in general to answer W00 Learning Outcome
 ZCZC W00 060 L00 Writing Down Notes for W00 Learning Outcome
-ZCZC W01 120 L11 Assignment #1 of Week 02 Finished
+ZCZC W01 120 L11 Assignment #1 of Week 02 Progress
+ZCZC W01 240 L10 Following instruction at https://osp4diss.vlsm.org/ and downloading everything
+ZCZC W01 060 L11 Assignment #1 of Week 02 Asking Assistant
+ZCZC W01 120 L11 Assignment #1 of Week 02 Fixing Errors and add user Exqrch to Sudoers groups
