@@ -16,3 +16,6 @@ ZCZC W01 240 L10 Following instruction at https://osp4diss.vlsm.org/ and downloa
 ZCZC W01 060 L11 Assignment #1 of Week 02 Asking Assistant
 ZCZC W01 120 L11 Assignment #1 of Week 02 Fixing Errors and add user Exqrch to Sudoers groups
 ZCZC W01 030 L12 40 Basic Linux Command https://linoxide.com/linux-command/essential-linux-basic-commands/
+ZCZC W01 090 L12 Playing with Linux Commands https://ubuntu.com/tutorials/command-line-for-beginners#9-conclusion
+ZCZC W01 005 L12 Brief catchup on Regex
+ZCZC W01 030 L13 Learning Vim through vimtutor (Section I)
