@@ -23,3 +23,5 @@ ZCZC W01 015 L13 Learning Vim through vimtutor (Section II)
 ZCZC W01 060 L13 Learning Vim through vimtutor (Section III - VII)
 ZCZC W01 017 L13 Learning basics of awk and how to script
 ZCZC W01 015 L14 Setting up .bash_aliases using vi
+ZCZC W01 045 L15 Following /CBKadal.html#setup-git
+ZCZC W01 005 L16 Updating mylog.txt using vi through repository
