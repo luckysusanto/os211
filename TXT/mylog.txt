@@ -25,3 +25,6 @@ ZCZC W01 017 L13 Learning basics of awk and how to script
 ZCZC W01 015 L14 Setting up .bash_aliases using vi
 ZCZC W01 045 L15 Following /CBKadal.html#setup-git
 ZCZC W01 005 L16 Updating mylog.txt using vi through repository
+ZCZC W01 060 L17 GSGS on How to Set Up "Extra Page" for Github Pages
+ZCZC W01 030 L17 Trying to understand cbkadal's Github Page
+ZCZC W01 060 L17 Remembering 10 websites that helped me through this journey of Week 01 OS assignment (plus a bonus) and writing them
