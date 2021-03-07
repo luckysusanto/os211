@@ -19,3 +19,4 @@ ZCZC W01 030 L12 40 Basic Linux Command https://linoxide.com/linux-command/essen
 ZCZC W01 090 L12 Playing with Linux Commands https://ubuntu.com/tutorials/command-line-for-beginners#9-conclusion
 ZCZC W01 005 L12 Brief catchup on Regex
 ZCZC W01 030 L13 Learning Vim through vimtutor (Section I)
+ZCZC W01 015 L13 Learning Vim through vimtutor (Section II)
