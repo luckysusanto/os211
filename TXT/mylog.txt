@@ -22,3 +22,4 @@ ZCZC W01 030 L13 Learning Vim through vimtutor (Section I)
 ZCZC W01 015 L13 Learning Vim through vimtutor (Section II)
 ZCZC W01 060 L13 Learning Vim through vimtutor (Section III - VII)
 ZCZC W01 017 L13 Learning basics of awk and how to script
+ZCZC W01 015 L14 Setting up .bash_aliases using vi
