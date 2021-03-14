@@ -6,5 +6,5 @@ For more info on OS repository, [Click Here](https://github.com/Exqrch/os211)<br
 To check on what I've done regarding OS, [Log](https://github.com/Exqrch/os211/blob/master/TXT/mylog.txt)
 
 ## Weekly Top 10 Ranks
-[Week 01](https://exqrch.github.io/os211/W01/)
+[Week 01](https://exqrch.github.io/os211/W01/)<br>
 [Week 02](https://exqrch.github.io/os211/W02/)
