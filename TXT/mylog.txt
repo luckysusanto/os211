@@ -28,3 +28,12 @@ ZCZC W01 005 L16 Updating mylog.txt using vi through repository
 ZCZC W01 060 L17 GSGS on How to Set Up "Extra Page" for Github Pages
 ZCZC W01 030 L17 Trying to understand cbkadal's Github Page
 ZCZC W01 060 L17 Remembering 10 websites that helped me through this journey of Week 01 OS assignment (plus a bonus) and writing them
+ZCZC W02 120 L06 Reading "Operating System Concepts"
+ZCZC W02 060 L25 C-language studying basics
+ZCZC W02 060 L10 Demo Week02 of C languages
+ZCZC W02 060 L23 Asking a lot of small details, mostly errors, and mostly found the answer online alone
+ZCZC W02 060 L05 GSGS about Security and Protection in OS
+ZCZC W02 010 L04 Github pages set up for W02
+ZCZC W02 040 L05 Finding links to fill up top 10 link of W02
+ZCZC W02 040 L08 Trying to play around with kawung's database and checking my permission on files
+ZCZC W02 120 L10 Connecting to kawung, connecting to badak, and making tunnel
