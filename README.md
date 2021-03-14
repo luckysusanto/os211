@@ -7,4 +7,4 @@ To check on what I've done regarding OS, [Log](https://github.com/Exqrch/os211/b
 
 ## Weekly Top 10 Ranks
 [Week 01](https://exqrch.github.io/os211/W01/)
-
+[Week 02](https://exqrch.github.io/os211/W02/)
