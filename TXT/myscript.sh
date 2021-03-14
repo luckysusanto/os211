@@ -12,16 +12,19 @@
 FILES=my*.asc mylog.txt mypubkey.txt myrank.txt my*.sh
 SHA=SHA256SUM
 
-echo rm -f .asc
-rm -f  .asc
+echo rm -f SHA256SUM SHA256SUM.asc
+rm -f SHA256SUM SHA256SUM.asc
 
-echo sha256sum -c 
-sha256sum -c 
+echo sha256sum my*.txt my*.sh > SHA256SUM
+sha256sum my*.txt my*.sh > SHA256SUM 
 
-echo gpg -o .asc -a -sb 
-gpg -o .asc -a -sb 
+echo sha256sum -c SHA256SUM
+sha256sum -c SHA256SUM
 
-echo gpg --verify .asc 
-gpg --verify .asc 
+echo gpg -o SHA256SUM.asc -a -sb SHA256SUM
+gpg -o SHA256SUM.asc -a -sb SHA256SUM
+
+echo gpg --verify SHA256SUM.asc SHA256SUM
+gpg --verify SHA256SUM.asc SHA256SUM
 
 exit 0
