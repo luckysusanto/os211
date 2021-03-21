@@ -4,3 +4,10 @@
 ZCZC W01 fadlia68
 ZCZC W01 freezetabs
 ZCZC W01 fredypasaud
+
+#Week 02
+ZCZC W02 fadlia68
+ZCZC W02 faishol01
+ZCZC W02 faustaadp
+ZCZC W02 frhnzh
+ZCZC W02 fauziridwan
