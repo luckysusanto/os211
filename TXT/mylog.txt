@@ -37,3 +37,12 @@ ZCZC W02 010 L04 Github pages set up for W02
 ZCZC W02 040 L05 Finding links to fill up top 10 link of W02
 ZCZC W02 040 L08 Trying to play around with kawung's database and checking my permission on files
 ZCZC W02 120 L10 Connecting to kawung, connecting to badak, and making tunnel
+ZCZC W03 080 L25 Reading about Demos Week03, Running, and then GSGS for more info
+ZCZC W03 010 L13 Updating my .bash_aliases (Though I don't think anything was changed)
+ZCZC W03 020 L14 Adding 5 people to myrank whose link was working and wasn't hard to read
+ZCZC W03 015 L18 Updating my bash script to follow cbkadal's
+ZCZC W03 030 L05 GSGS about what the bash script actually does.
+ZCZC W03 050 L17 Reading Assignment 7, doing it, and finishing it
+ZCZC W03 008 L19 Running bash script to automatically make SHA256SUM and automatically sign it as armor
+ZCZC W03 120 L10 GSGS for top 10 links while also learning how to answer W03 Learning Outcomes
+ZCZC W0E 010 L04 Github pages updates and set ups.
