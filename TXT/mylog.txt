@@ -45,4 +45,13 @@ ZCZC W03 030 L05 GSGS about what the bash script actually does.
 ZCZC W03 050 L17 Reading Assignment 7, doing it, and finishing it
 ZCZC W03 008 L19 Running bash script to automatically make SHA256SUM and automatically sign it as armor
 ZCZC W03 120 L10 GSGS for top 10 links while also learning how to answer W03 Learning Outcomes
-ZCZC W0E 010 L04 Github pages updates and set ups.
+ZCZC W03 010 L04 Github pages updates and set ups.
+ZCZC W04 150 L11 Reading Assignment: Operating System Concepts Chapter 9 - Main Memory
+ZCZC W04 070 L12 Demo W04: Make, Read, Learning, Understanding
+ZCZC W04 030 L25 GSGS about W04's Demo regarding C
+ZCZC W04 020 L13 Checking 10 people's github page (Choose 3), and update myrank.txt
+ZCZC W04 120 L14 Creating Top 10 list of W04, GSGS for interesting stuffs regarding this week's topic
+ZCZC W04 005 L17 Updating myscript.sh
+ZCZC W04 060 L16 Downloading, Decrypt, and reading W04's readme and doing it.
+ZCZC W04 001 L18 bash myscript.sh (Thanks sir)
+ZCZC W04 020 L15 Updating log
