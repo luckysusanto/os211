@@ -16,3 +16,8 @@ ZCZC W02 fauziridwan
 ZCZC W03 FrhNzh
 ZCZC W03 freezetabs
 ZCZC W03 fayaadbsa
+
+#Week 04
+ZCZC W04 fredypasaud
+ZCZC W04 fauziridwan
+ZCZC W04 faishol01
