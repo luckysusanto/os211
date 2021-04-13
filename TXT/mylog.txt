@@ -59,3 +59,9 @@ ZCZC W05 010 L04 Set up page hyperlink on main for W05
 ZCZC W05 120 L10 Find internet resources to answer Weekly Learning Outcomes and put it in my top 10 list 
 ZCZC W05 020 L12 Checking 10 people's github page (Choose 3), and update myrank.txt
 ZCZC W05 060 L10 Finishing W05 Assignments
+ZCZC W06 010 L04 Add new pages (week 6) to my Github pages
+ZCZC W06 180 L05 Reading into week 6's Learning outcome and GSGS to answer them
+ZCZC W06 090 L13 Making Week 6's top 10 list, searching additional material to find in the internet
+ZCZC W06 010 L12 Checking top 10 of Week 5 of other peoples and add them to myrank
+ZCZC W06 060 L14 Finishing Week 6's assignment
+ZCZC W06 015 L10 Updating myscript.sh, will commence encrypting and armoring result
