@@ -27,3 +27,10 @@ ZCZC W05 fadhilrasendriya
 ZCZC W05 faustaadp
 ZCZC W05 fauziridwan1709
 ZCZC W05 FrhNzh
+
+#Week 07
+ZCZC W07 fadhilrasendriya
+ZCZC W07 faishol01
+ZCZC W07 faustaadp
+ZCZC W07 fredypasaud
+ZCZC W07 freezetabs
