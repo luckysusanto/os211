@@ -12,3 +12,5 @@ To check on what I've done regarding OS, [Log](https://github.com/Exqrch/os211/b
 [Week 04](https://exqrch.github.io/os211/W04/)<br>
 [Week 05](https://exqrch.github.io/os211/W05/)<br>
 [Week 06](https://exqrch.github.io/os211/W06/)<br>
+[Week 07] --NOTHING TO SEE HERE--<br>
+[Week 08](https://exqrch.github.io/os211/W08/)<br>
