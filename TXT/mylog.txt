@@ -65,3 +65,9 @@ ZCZC W06 090 L13 Making Week 6's top 10 list, searching additional material to f
 ZCZC W06 010 L12 Checking top 10 of Week 5 of other peoples and add them to myrank
 ZCZC W06 060 L14 Finishing Week 6's assignment
 ZCZC W06 015 L10 Updating myscript.sh, will commence encrypting and armoring result
+ZCZC W08 135 L06 Reading Chapter 5 about CPU Scheduling
+ZCZC W08 180 L10 W08 Assignments finished, results tarballed
+ZCZC W08 010 L10 Chceking top 10 of Week 7 of other people and add them to myrank
+ZCZC W08 090 L05 GSGS regarding parts of the book that I didn't udnerstand
+ZCZC W08 010 L04 Added link to w08 top 10. 
+ZCZC W08 080 L10 Creating top 10 list from GSGS and then GSGS some more to create top 10
