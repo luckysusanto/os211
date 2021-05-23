@@ -34,3 +34,8 @@ ZCZC W07 faishol01
 ZCZC W07 faustaadp
 ZCZC W07 fredypasaud
 ZCZC W07 freezetabs
+
+#Week 08
+ZCZC W08 fadhilrasendriya
+ZCZC W08 FrhNzh
+ZCZC W08 freezetabs
