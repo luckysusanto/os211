@@ -71,3 +71,8 @@ ZCZC W08 010 L10 Chceking top 10 of Week 7 of other people and add them to myran
 ZCZC W08 090 L05 GSGS regarding parts of the book that I didn't udnerstand
 ZCZC W08 010 L04 Added link to w08 top 10. 
 ZCZC W08 080 L10 Creating top 10 list from GSGS and then GSGS some more to create top 10
+ZCZC W09 120 L06 Reading reference book on chapter 11.
+ZCZC W09 720 L10 Completing Assignments LFS Chapter 5 to 7
+ZCZC W09 040 L10 Creating Reports for W09
+ZCZC W09 120 L04 Creating TOP 10 list of W09.
+ZCZC W09 010 L10 Check 10, pick 3 for top 3 in myrank.txt
