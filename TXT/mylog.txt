@@ -78,5 +78,6 @@ ZCZC W09 120 L04 Creating TOP 10 list of W09.
 ZCZC W09 010 L10 Check 10, pick 3 for top 3 in myrank.txt
 ZCZC W10 010 L10 Check 10, pick 3 for top 3 in myrank.txt
 ZCZC W10 020 L10 Create tips for next semester people!
-ZCZC W10 180 L08 Error, trying to find a fix, didn't find one v_v
+ZCZC W10 180 L07 Error, trying to find a fix, didn't find one v_v 
 ZCZC W10 800 L10 Studied, Followed, and Finished LFS Chapter 8.
+ZCZC W10 180 L06 Reading OSC Ch 10: Input/Output System
