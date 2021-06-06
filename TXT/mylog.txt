@@ -76,3 +76,7 @@ ZCZC W09 720 L10 Completing Assignments LFS Chapter 5 to 7
 ZCZC W09 040 L10 Creating Reports for W09
 ZCZC W09 120 L04 Creating TOP 10 list of W09.
 ZCZC W09 010 L10 Check 10, pick 3 for top 3 in myrank.txt
+ZCZC W10 010 L10 Check 10, pick 3 for top 3 in myrank.txt
+ZCZC W10 020 L10 Create tips for next semester people!
+ZCZC W10 180 L08 Error, trying to find a fix, didn't find one v_v
+ZCZC W10 800 L10 Studied, Followed, and Finished LFS Chapter 8.
